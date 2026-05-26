@@ -8,7 +8,7 @@
 
 ## Project Overview
 
-It is very important to nderstand customer behavior if you are a businesses that want to make informed decisions and build stronger relationships with their customers. Instead of treating all customers as one large group, businesses can create targeted strategies by dividing their customer base into meaningful segments.
+It is very important to understand customer behavior if you are a businesses that want to make informed decisions and build stronger relationships with their customers. Instead of treating all customers as one large group, businesses can create targeted strategies by dividing their customer base into meaningful segments.
 
 In this project , similar to the previos K-means Clustering project , I explored mall customer data using unsupervised machine learning technique: Hierarchical Clustering. The purpose of the project is to identify distinct customer segments and generate actionable business insights.
 
